@@ -1,0 +1,1 @@
+web: gunicorn MaMétéo.wsgi --log-file -
